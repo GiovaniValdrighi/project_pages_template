@@ -1,0 +1,57 @@
+body{
+    font-family:Arial;
+}
+
+#all{
+    width: 900px;
+    border-width: 0 2px 0 2px;
+    border-style: solid;
+    border-color: #303030;
+    margin: 0 auto;
+}
+
+#head{
+    height: 80px;
+    padding-top: 10px;
+    padding-left: 12px;
+}
+
+#menu{
+    font-size: 18px;
+    height: 20px;
+    padding-left: 12px;
+}
+
+#pageslink{
+    color: #303030;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#pageslink:link {
+    text-decoration: none;
+}
+  
+#pageslink:visited {
+    text-decoration: none;
+}
+  
+#pageslink:hover{
+    background-color: #CDCDCD;
+}
+
+#pageslink:active {
+    text-decoration: underline;
+  }
+
+
+
+#content{
+    padding-left: 12px;
+    padding-top: 10px;
+}
+
+#footer{
+    font-size: 12px;
+    padding-left: 12px;
+}
